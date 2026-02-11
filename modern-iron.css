@@ -633,7 +633,7 @@ nav {
   font-weight: 600;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: var(--rust);
+  color: rgba(0,0,0,0.5);
 }
 
 .contact-value {
