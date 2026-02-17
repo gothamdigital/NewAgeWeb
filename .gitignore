@@ -1,14 +1,22 @@
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
 
 # Project management
 tasks/
 components/
 .gemini/
 .geminiignore
+AGENTS.md
 
 # Local development
 .vscode/
 .idea/
+.cache/
 *.log
 .env
+.env.*
